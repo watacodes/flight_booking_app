@@ -1,4 +1,4 @@
-# flight_booking_app
+# Flight Booking App
 
 A Flutter and Dart flight booking app.
 
